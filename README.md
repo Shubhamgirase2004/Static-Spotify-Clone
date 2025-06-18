@@ -57,10 +57,6 @@ Edit
 📌 Project Status
 ✅ Completed and deployed (Optional: add deployment link here if live)
 
-<br>
-📄 License
-This project is licensed under the MIT License.
-
 💡 Inspiration
 This project was built as a UI/UX design practice exercise to replicate real-world applications using only front-end technologies. It serves as a strong foundation for further integration with APIs and backend systems.
 
