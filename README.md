@@ -26,6 +26,8 @@ A sleek and responsive **static web application** that replicates the modern use
 
 <img src="https://github.com/user-attachments/assets/b550afdc-5c62-4b68-8572-3101055e148f" alt="UI Screenshot 1" width="600"/>
 <br><br>
+
+<hr>
 <img src="https://github.com/user-attachments/assets/ac2ad7fe-5fbb-478f-9fb7-52fe487a9ed3" alt="UI Screenshot 2" width="600"/>
 
 <br>
